@@ -3,9 +3,9 @@ var util = require('util');
 var JSONbig = require('json-bigint');
 var crypto = require('crypto');
 
-var portal = 'https://owner-api.teslamotors.com/api/1';
+var portal = 'https://private-anon-0ceef6f72-timdorr.apiary-mock.com/api/1';
 exports.portal = portal;
-var owner_api = 'https://owner-api.teslamotors.com';
+var owner_api = 'https://private-anon-0ceef6f72-timdorr.apiary-mock.com';
 exports.portal = owner_api;
 var token = '';
 exports.token = token;
